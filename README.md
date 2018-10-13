@@ -1,6 +1,6 @@
-# SI 364 - Winter 2018 - Midterm Assignment
+# SI 364 - Fall 2018 - Midterm Assignment
 
-### Deadline: March 11, 2018 11:59 PM
+### Deadline: November 4, 2018 11:59 PM
 ### Total: 2000 points
 
 ## Overall
