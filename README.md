@@ -69,7 +69,7 @@ Design will not earn you points for this assignment thoug you may certainly incl
 **Note that many of these requirements go together!**
 
 - [ ] Ensure that the `SI364midterm.py` file has all the setup (`app.config` values, import statements, code to run the app if that file is run, etc) necessary to run the Flask application, and the application runs correctly on `http://localhost:5000` (and the other routes you set up)
-- [ ] Add navigation in `base.html` with links (using `a href` tags) that lead to every other viewable page in the application. (e.g. in the lecture examples from the Feb 9 lecture, [like this](https://www.dropbox.com/s/hjcls4cfdkqwy84/Screenshot%202018-02-15%2013.26.32.png?dl=0) )
+- [ ] Add navigation in `base.html` with links (using `a href` tags) that lead to every other viewable page in the application. ([like this](https://www.dropbox.com/s/hjcls4cfdkqwy84/Screenshot%202018-02-15%2013.26.32.png?dl=0) )
 - [ ] Ensure that all templates in the application inherit (using template inheritance, with `extends`) from `base.html` and include at least one additional `block`.
 - [ ] Include at least 2 additional template `.html` files we did not provide.
 - [ ] At least one additional template with a Jinja template for loop and at least one additional template with a Jinja template conditional.
